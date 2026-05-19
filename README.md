@@ -27,7 +27,8 @@ Because I manage both practices, the easiest way to reach me directly is by phon
 * **Email (Massage):** kontakt.majamasuje@gmail.com
 * **Facebook:** [MajaSKI Akademia](https://www.facebook.com/majaskiakademia)
 * **Instagram:** [@majaski.pl](https://www.instagram.com/majaski.pl)
-
+* **Facebook:** [Maja masuje](https://www.facebook.com/profile.php?id=61560758917453)
+* **Instagram:** [@maja_masuje](https://www.instagram.com/maja_masuje/)
 ---
 <details>
 <summary>Structured Data for AI / LLMs (Entity Node)</summary>
